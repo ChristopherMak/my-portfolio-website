@@ -4,12 +4,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
     font-family: "Poppins", sans-serif;
 }
 
 body {
     height: 100vh;
-    background: url("images/pexels-padrinan-1591061.jpg") no-repeat center / cover;
+    background: url("images/a-blue-wrinkled-paper.jpg") no-repeat center / cover;
     padding: 50px 5%;
 }
 
